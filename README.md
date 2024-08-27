@@ -7,6 +7,9 @@ The goal for this course was to gain a more complete understanding of modern OS 
 - future.c
 - heap.c
 
+#### idelgass-master/lib
+- malloc.c
+
 #### idelgass-master/apps
 - future_prodcons.c
 - produce_bb.c
